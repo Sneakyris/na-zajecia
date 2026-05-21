@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nowy folder (3)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+912d74b4eee0d03f10811dece37d4cb40d8b3ba7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eee7f4c9093a0a6473f44b7ef277eb33bd41f5c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nowy folder (3)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nowy folder (3)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
