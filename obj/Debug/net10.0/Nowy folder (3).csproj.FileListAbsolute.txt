@@ -12,3 +12,4 @@ H:\Nowy folder (3)\obj\Debug\net10.0\refint\Nowy folder (3).dll
 H:\Nowy folder (3)\obj\Debug\net10.0\Nowy folder (3).pdb
 H:\Nowy folder (3)\obj\Debug\net10.0\Nowy folder (3).genruntimeconfig.cache
 H:\Nowy folder (3)\obj\Debug\net10.0\ref\Nowy folder (3).dll
+H:\Nowy folder (3)\obj\Debug\net10.0\Nowy folder (3).sourcelink.json
