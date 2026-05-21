@@ -1,0 +1,14 @@
+H:\Nowy folder (3)\obj\Debug\net10.0\Nowy folder (3).GeneratedMSBuildEditorConfig.editorconfig
+H:\Nowy folder (3)\obj\Debug\net10.0\Nowy folder (3).AssemblyInfoInputs.cache
+H:\Nowy folder (3)\obj\Debug\net10.0\Nowy folder (3).AssemblyInfo.cs
+H:\Nowy folder (3)\obj\Debug\net10.0\Nowy folder (3).csproj.CoreCompileInputs.cache
+H:\Nowy folder (3)\bin\Debug\net10.0\Nowy folder (3).exe
+H:\Nowy folder (3)\bin\Debug\net10.0\Nowy folder (3).deps.json
+H:\Nowy folder (3)\bin\Debug\net10.0\Nowy folder (3).runtimeconfig.json
+H:\Nowy folder (3)\bin\Debug\net10.0\Nowy folder (3).dll
+H:\Nowy folder (3)\bin\Debug\net10.0\Nowy folder (3).pdb
+H:\Nowy folder (3)\obj\Debug\net10.0\Nowy folder (3).dll
+H:\Nowy folder (3)\obj\Debug\net10.0\refint\Nowy folder (3).dll
+H:\Nowy folder (3)\obj\Debug\net10.0\Nowy folder (3).pdb
+H:\Nowy folder (3)\obj\Debug\net10.0\Nowy folder (3).genruntimeconfig.cache
+H:\Nowy folder (3)\obj\Debug\net10.0\ref\Nowy folder (3).dll
